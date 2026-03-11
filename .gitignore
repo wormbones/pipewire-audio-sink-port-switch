@@ -1,4 +1,3 @@
-```gitignore
 # Temporary state files
 /tmp/.last_audio_sink
 /tmp/.sink_*
@@ -10,3 +9,7 @@ oldsrc/
 *~
 .vscode/
 .idea/
+
+#Backup files
+*.bak
+*.orig
