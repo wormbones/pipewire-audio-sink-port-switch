@@ -1,0 +1,12 @@
+```gitignore
+# Temporary state files
+/tmp/.last_audio_sink
+/tmp/.sink_*
+#OldVersions before repo
+oldsrc/
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
