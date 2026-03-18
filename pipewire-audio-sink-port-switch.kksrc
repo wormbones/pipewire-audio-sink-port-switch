@@ -1,0 +1,13 @@
+[Custom Commands][net.local.pipewire-audio-switch.sh.desktop]
+Exec=/home/deffn/.local/share/pipewire-audio-sink-port-switch/pipewire-audio-switch.sh
+Name=Pipewire Audio Switch
+
+[Custom Commands][net.local.pipewire-port-switch.sh.desktop]
+Exec=/home/deffn/.local/share/pipewire-audio-sink-port-switch/pipewire-port-switch.sh
+Name=Pipewire Ryzen Audio Port Switch
+
+[net.local.pipewire-audio-switch.sh.desktop][Global Shortcuts]
+_launch=Shift+F12
+
+[net.local.pipewire-port-switch.sh.desktop][Global Shortcuts]
+_launch=Ctrl+Shift+F12
